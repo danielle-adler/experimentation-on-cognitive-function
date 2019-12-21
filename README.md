@@ -42,14 +42,11 @@ We chose three key ways to measure the degrees of success in this experiment. Tw
   + Number of Boxes Left Empty - The data in this column represents the number of white spaces or boxes that are not filled left on the Sudoku board in an individual game. If a subject completed the entire game, no white spaces would be left and this value would be zero. 
 
 * Between Subject Outcomes:
-  + Completion of the First Game - We are blocking for the treatment vs. control represented in the first game (i.e. the Barney song vs. white noise). We are also controlling for various covariates such as level of education, knowledge of Sudoku, knowledge of logic games in general, time spent playing games, morning vs. night person, and all other variables that we asked about in the beginning of the survey.
+  + Completion of the First Game - We are blocking for the treatment vs. control represented in the first game (i.e. the Barney song vs. white noise). We are also controlling for various covariates such as level of education, knowledge of Sudoku, knowledge of logic games in general, time spent playing games, morning vs. night person, and all other variables that we asked about in the beginning of the survey on Mechnical Turk.
   
 
-## Conclusion
+## Results
 
 With the data we obtained from our experiment and subsequent evaluation running longitudinal and trasversal analysis we found no evidence of the impact of music on the performace of Sodoku games. We found no evidence (in statistical or practical significance) that the I Love You song by Barney and Friends had any effect on the percentage of completion rate of the game or partial completion of the game counting the number white spaces left on the game board, when compared to white noise.
+
 One potential reason for our lack of effect is that Barney really may not be annoying in short doses. Participants were only listening to the song for five minutes at most, which may not have been long enough to observe an effect. Conversely, white noise may also have been irritating to many of our participants. While articles have shown that white noise is quite soothing and can help cognitive function, our sample of participants may not have felt that way.
-
-Another reason for our lack of effect could simply be the compliance. Participants only had to listen for 30 - 60 seconds of the audio track to get the compliance-check number. Participants may have turned off the music at that point and simply focused on the Sudoku game only for the remainder of the time.
-
-If given more time, our team would build out a custom Sudoku solution of sorts to automatically check for correctness. The Sudoku game itelf would also play the different types of music, forcing participants to listen to it while they played. We would also conduct the experiment with in-person monitoring to make sure that participants did not turn off their volume while playing, or give up and just let the clock run out during the five minutes of game play.
